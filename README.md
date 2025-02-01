@@ -26,4 +26,4 @@ You Can Follow news of alkarama club.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![secreenshot](src\Assets\ImgAbout\karam.png)
+![secreenshot](src/Assets/ImgAbout/karam.png)
